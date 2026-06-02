@@ -5,7 +5,7 @@ def reverse_string(s):
     """Reverse a string.
 
     Args:
-        s: The input string to reverese.
+        s: The input string to reverse.
 
     Returns:
         The reversed string.
